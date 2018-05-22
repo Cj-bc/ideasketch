@@ -1,0 +1,18 @@
+Minecraft CLI client
+You shold open Minecraft to use API
+
+
+# start MineCLI
+$ mcli
+
+move: hjkl, awsd
+
+there's 2 panes to show the world, vertical view/horizontal view
+
+
+# dependences
+  * minecraft itself -- of cource
+  * python
+  * EvenGL -- a 3D graphic library for bash
+
+
