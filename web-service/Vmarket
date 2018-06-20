@@ -1,0 +1,33 @@
+# Vmarket, which is the place for all your living shopping in VR
+* マーケット
+* Amazon風な
+* 各shopからimport
+* "sample"など貼り付けて展示？
+* アクセ系は試着可に
+
+(?) 盗難予防はどうする？
+(?) 試着時、アバターのパーツ判別がいる
+(?) a-frameで3Dモデルは読み込めるか
+
+大手には敵わない
+  => 無料品のみ取り扱うのはどうか？
+
+* Unity/MMDにそのままimport
+
++--------------------------+
+| * 試せる                 |
+| * 手軽                   |
+| * そのまま開発に行ける！ |
++--------------------------+
+
+マネタリング
+  * 広告or Mining選択制
+
+
+# features
+  (1) Display 3D models
+  (2) Move around
+  (3) Equip cosmetics
+  (4) View yourself in mirror
+  (5) Download the model directory from the VR view
+  (6) Host other's 3D models
